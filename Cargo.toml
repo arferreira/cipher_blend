@@ -1,0 +1,16 @@
+[package]
+name = "cipher_blend"
+version = "0.1.0"
+edition = "2021"
+authors = ["Antonio Souza <arfs.antonio@gmail.com>"]
+description = "A simple cipher blend"
+license = "MIT"
+repository = "github.com/arferreira/cipher_blend"
+
+
+
+[lib]
+name = "cipher_blend"
+path = "src/lib.rs"
+
+[dependencies]
